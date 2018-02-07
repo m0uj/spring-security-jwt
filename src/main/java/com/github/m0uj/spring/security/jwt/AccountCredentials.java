@@ -1,4 +1,4 @@
-package com.spring.security.jwt;
+package com.github.m0uj.spring.security.jwt;
 
 public class AccountCredentials {
     private String username;

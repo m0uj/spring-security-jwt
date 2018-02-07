@@ -22,7 +22,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
-    <groupId>com.spring.security.jwt</groupId>
+    <groupId>com.github.m0uj.spring.security.jwt</groupId>
     <artifactId>spring-security-jwt</artifactId>
     <version>1.0-RELEASE</version>
 
